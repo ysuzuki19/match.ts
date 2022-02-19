@@ -1,5 +1,5 @@
 {
-  "name": "match.ts",
+  "name": "@ysuzuki19/match.ts",
   "version": "1.0.0",
   "description": "TypeScript match(switch-case) library inspired by Rust.",
   "main": "./dist/index.umd.min.js",
