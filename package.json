@@ -12,7 +12,7 @@
     "test": "echo test # npm test",
     "build": "rollup -c",
     "prepublishOnly": "npm run build",
-    "publish": "npm publish --access=public"
+    "publish": "npm publish . --access public"
   },
   "repository": {
     "type": "git",
