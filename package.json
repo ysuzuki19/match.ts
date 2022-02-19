@@ -1,6 +1,6 @@
 {
   "name": "@ysuzuki19/match.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript match(switch-case) library inspired by Rust.",
   "main": "./dist/index.umd.min.js",
   "module": "./dist/index.es.js",
@@ -13,7 +13,7 @@
     "test": "echo test # npm test",
     "build": "rollup -c",
     "prepublishOnly": "npm run build",
-    "publish": "npm publish --access=public"
+    "publish": "npm publish"
   },
   "repository": {
     "type": "git",
